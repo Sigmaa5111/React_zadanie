@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  width: auto;
+  padding-top: 50px;
+  padding-left: 100px;
+  font-family: sans-serif;
+  color: white;
+  background-color: rgb(30, 30, 49);
+}
+
+table {
+
+  color: white;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 25px;
+  padding-top: 25px;
+  border: 1px solid white;
+}

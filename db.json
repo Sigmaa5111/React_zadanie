@@ -1,0 +1,10 @@
+{
+  "products": [
+  {"id": 1, "category": "Kobiety", "price": "80 zł", "stocked": true, "name": "Bluzka"},
+  {"id": 2, "category": "Kobiety", "price": "150 zł", "stocked": true, "name": "Spodnie"},
+  {"id": 3, "category": "Kobiety", "price": "125 zł", "stocked": false, "name": "Spódnica"},
+  {"id": 4, "category": "Mężczyźni", "price": "80 zł", "stocked": true, "name": "T-shirty"},
+  {"id": 5, "category": "Mężczyźni", "price": "100 zł", "stocked": false, "name": "Koszule"},
+  {"id": 6, "category": "Mężczyźni", "price": "150 zł", "stocked": true, "name": "Bluzy"}
+  ]
+}
